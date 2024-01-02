@@ -1,0 +1,29 @@
+{
+  "name": "str-kit",
+  "version": "1.0.1",
+  "description": "Some strings functions that can be usefull",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AYnonyme971/str-kit.git"
+  },
+  "keywords": [
+    "string",
+    "strings",
+    "string-methods",
+    "util",
+    "utils",
+    "str",
+    "kit",
+    "formatter"
+  ],
+  "author": "AYnonyme",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AYnonyme971/str-kit/issues"
+  },
+  "homepage": "https://github.com/AYnonyme971/str-kit#readme"
+}
